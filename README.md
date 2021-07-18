@@ -1,11 +1,13 @@
 ### Crawling_Project
 ## 목차
 ![image](https://user-images.githubusercontent.com/79970424/126070640-f4e218ae-db73-4bf6-96b3-94bbededa357.png)
+---
 ## 프로젝트 목적
 ![image](https://user-images.githubusercontent.com/79970424/126070646-180f679b-8b96-4e7f-a5d0-52ac3a47eecb.png)
 - 너무 많은 리뷰들로 호텔을 선택할때 판단이 힘듬
 - 또한 리뷰들이 섞여 있어 장점만 보고 싶거나, 단점만 보고 싶을 때 골라서 읽어야함
 - 한눈에 좋은리뷰만, 한눈에 나쁜리뷰만 볼 수 없을까?
+---
 ![image](https://user-images.githubusercontent.com/79970424/126070648-a4b86a62-6658-4fb8-9098-49a2fa658cf6.png)
 ![image](https://user-images.githubusercontent.com/79970424/126070649-7f76c60e-758b-4358-b1c5-3d5a88677540.png)
 ![image](https://user-images.githubusercontent.com/79970424/126070650-20197f72-e458-432b-b914-08017d0f41ac.png)
